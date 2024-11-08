@@ -1,0 +1,6 @@
+![register](image-1.png)
+![login](image-2.png)
+![create siswa](image-3.png)
+![read siswa](image-4.png)
+![update siswa](image-5.png)
+![delete siswa](image-6.png)
